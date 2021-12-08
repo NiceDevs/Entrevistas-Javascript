@@ -1,6 +1,6 @@
 # La Entrevista Laboral en Javascript
 
-## Como me preparo para una entrevista laboral Javascript
+## Como me preparo para una entrevista laboral en Javascript
 
 ## Preguntas recurrentes de Javascript 
 
